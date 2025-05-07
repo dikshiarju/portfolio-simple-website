@@ -1,4 +1,4 @@
-# Simple HTML & CSS Website
+# My Portfolio Website
 
 This is a basic static website built using **HTML** and **CSS**. It includes a **Home** page and a **Contact** page, making it a great starting point for beginners learning web development.
 
